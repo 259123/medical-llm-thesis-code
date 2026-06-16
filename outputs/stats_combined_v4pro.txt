@@ -1,0 +1,28 @@
+==================================================
+Combined V4-Pro (All 3 Conditions) - Reasoning Length Statistics (chars)
+==================================================
+
+Total questions: 300
+Correct: 287, Incorrect: 13
+Accuracy: 95.7%
+
+--- Correct ---
+Mean:   1703
+Median: 940
+Std:    3614
+Min:    91
+Max:    44778
+
+--- Incorrect ---
+Mean:   9126
+Median: 3996
+Std:    15459
+Min:    953
+Max:    58840
+
+Incorrect/Correct mean ratio: 5.36x
+
+--- Welch's t-test ---
+t = -1.729
+p = 0.1093
+Cohen's d = 0.66

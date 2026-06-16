@@ -1,0 +1,28 @@
+==================================================
+Chinese Native V4-Pro - Reasoning Length Statistics (chars)
+==================================================
+
+Total questions: 100
+Correct: 98, Incorrect: 2
+Accuracy: 98.0%
+
+--- Correct ---
+Mean:   575
+Median: 374
+Std:    553
+Min:    91
+Max:    3699
+
+--- Incorrect ---
+Mean:   1321
+Median: 1321
+Std:    520
+Min:    953
+Max:    1689
+
+Incorrect/Correct mean ratio: 2.30x
+
+--- Welch's t-test ---
+t = -2.004
+p = 0.2859
+Cohen's d = 1.39

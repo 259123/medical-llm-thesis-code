@@ -1,0 +1,28 @@
+==================================================
+Combined (All 3 Conditions) - Reasoning Length Statistics (chars)
+==================================================
+
+Total questions: 300
+Correct: 289, Incorrect: 11
+Accuracy: 96.3%
+
+--- Correct ---
+Mean:   2824
+Median: 1712
+Std:    3306
+Min:    220
+Max:    29360
+
+--- Incorrect ---
+Mean:   8144
+Median: 4690
+Std:    8125
+Min:    406
+Max:    23393
+
+Incorrect/Correct mean ratio: 2.88x
+
+--- Welch's t-test ---
+t = -2.165
+p = 0.0553
+Cohen's d = 0.86

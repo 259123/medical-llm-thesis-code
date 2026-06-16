@@ -1,0 +1,28 @@
+==================================================
+English Translated - Reasoning Length Statistics (chars)
+==================================================
+
+Total questions: 100
+Correct: 96, Incorrect: 4
+Accuracy: 96.0%
+
+--- Correct ---
+Mean:   1795
+Median: 1414
+Std:    1262
+Min:    537
+Max:    7894
+
+--- Incorrect ---
+Mean:   4507
+Median: 4516
+Std:    2578
+Min:    1347
+Max:    7651
+
+Incorrect/Correct mean ratio: 2.51x
+
+--- Welch's t-test ---
+t = -2.094
+p = 0.1255
+Cohen's d = 1.34

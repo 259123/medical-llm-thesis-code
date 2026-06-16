@@ -1,0 +1,28 @@
+==================================================
+English Translated V4-Pro - Reasoning Length Statistics (chars)
+==================================================
+
+Total questions: 100
+Correct: 93, Incorrect: 7
+Accuracy: 93.0%
+
+--- Correct ---
+Mean:   1272
+Median: 852
+Std:    2356
+Min:    233
+Max:    20261
+
+--- Incorrect ---
+Mean:   11801
+Median: 3996
+Std:    20909
+Min:    1051
+Max:    58840
+
+Incorrect/Correct mean ratio: 9.28x
+
+--- Welch's t-test ---
+t = -1.332
+p = 0.2312
+Cohen's d = 0.71
