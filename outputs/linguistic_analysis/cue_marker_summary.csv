@@ -1,0 +1,6 @@
+Cue type,English marker present count,Translated Chinese marker present count,Both present count,English only count,Translated Chinese only count,Neither present count
+temporal,96,96,95,1,1,3
+negation,87,77,71,16,6,7
+modifier_or_severity,57,72,55,2,17,26
+management_or_treatment,37,52,34,3,18,45
+safety_or_contraindication,39,16,11,28,5,56
